@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "vehicles": [
+    {
+      "plate": "",
+      "owner": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    }
+  ]
+}
